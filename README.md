@@ -4,12 +4,12 @@ O Workshop for Her 2023 é um evento tradicional do Turing USP que tem como obje
 
 ## Conteúdos:
 - Parte 1:
-  1. Apresentação da área de NLP
-  2. Revisão de Python
-  3. Pré-processamento de dados textuais
-  4. Bag-of-words
+  - Apresentação da área de NLP
+  - Revisão de Python
+  - Pré-processamento de dados textuais
+  - Bag-of-words
 - Parte 2:
-  5. Conceitos básicos de Machine Learning
-  6. Métricas de avaliação de modelos
-  7. Modelo Naive Bayes
-  8. Aplicação final: classificador textual
+  - Conceitos básicos de Machine Learning
+  - Métricas de avaliação de modelos
+  - Modelo Naive Bayes
+  - Aplicação final: classificador textual
