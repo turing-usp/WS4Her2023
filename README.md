@@ -1,7 +1,7 @@
 # Workshop for Her 2023
 ## Introdução ao Processamento de Linguagem Natural
 
-O Workshop for Her 2023 é um evento tradicional do Turing USP que tem como objetivo incentivar uma maior participação feminina nas áreas de tecnologia e Inteligência Artificial. O tema desta edição é "Processamento de Linguagem Natural", com o objetivo de ensinar às participantes alguns conceitos fundamentais da área, incluindo a aplicação prática de um classificador de emails.
+O Workshop for Her é um evento tradicional do Turing USP que tem como objetivo incentivar uma maior participação feminina nas áreas de tecnologia e Inteligência Artificial. O tema desta edição de 2023 foi "Processamento de Linguagem Natural", com o objetivo de ensinar às participantes alguns conceitos fundamentais da área, incluindo a aplicação prática de um classificador de emails. O evento foi realizado no palco do Google localizado em São Paulo.
 
 ## Conteúdos:
 
